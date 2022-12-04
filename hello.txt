@@ -1,9 +1,7 @@
 game start
 git add
-hello git!
-hello git!444444444444
-hello git!
-hello git!
+hello git!222222222222
+hello git!333333333333
 hello git!
 hello git!
 hello git!
@@ -18,4 +16,6 @@ hello git!
 hello git!
 hello git!
 hello git!
+hello git!
+hello git! master test
 game over
