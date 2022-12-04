@@ -16,7 +16,7 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git! linghuchong test
+hello git! linghuchong
 hello git! master tes
 hello git! hot-fix test
 game over
